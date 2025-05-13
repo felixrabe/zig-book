@@ -44,7 +44,7 @@ for this particular task.
 
 
 
-## How source code is built?
+## How is source code built?
 
 We already have talked about the challenges of building source code in low-level languages
 in @sec-project-files. As we described at that section, programmers invented Build Systems
